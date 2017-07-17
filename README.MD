@@ -9,4 +9,3 @@ All the above variants are already fixed by the patches in Struts2 versions 2.3.
 
 ```sh exploit-cd.sh [url] [command] [[add'l curl args]]```
 
-test Test
